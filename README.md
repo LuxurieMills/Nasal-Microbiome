@@ -2,7 +2,7 @@
 How Air Quality Affects the Nose’s Microbial Community
 ## 1. Project Phase Breakdown & Roadmap
 
-'''
+```
 Phase 1: Setup & Acquisition (Weeks 1-3)
   ├── Task 1.1: Source Nasal Microbiome Datasets (NCBI SRA/ENA)
   └── Task 1.2: Query Air Quality APIs (EPA AQS/OpenAQ) for PM2.5, PM10, NO2
